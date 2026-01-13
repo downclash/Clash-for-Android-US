@@ -1,6 +1,4 @@
-# Clash for Android (CFA) Download & Setup Guide: 2026 Archived Version
-
-> **SEO Summary:** Looking for a reliable Clash for Android download? This archived guide provides stable CFA APK backups, step-by-step configuration tutorials, and a comparison with Clash Meta for Android. Learn how to import Clash subscriptions and optimize your Android proxy settings.
+# 2026 Clash for Android (CFA) Download & Setup Guide
 
 ⚠️ **Important Notice:** The **Clash for Android (CFA)** project has officially reached its end-of-life (EOL) and the original repository has been deleted. This page provides **historical stable version backups**. While still functional for standard protocols, we highly recommend modern users migrate to **[Clash Meta for Android](https://clashkit.com/clash-meta-for-android/)** for advanced protocol support (like VLESS and Reality).
 
